@@ -39,7 +39,7 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
 <a href= "https://www.instagram.com/_santiago_laureano/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="santiagojesuslaureano369@gmail.com" >
-  <img src="https://img.shields.io/badge/Gmail-%23FF0000.svg?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/santiago-laureano/" >
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
