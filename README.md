@@ -7,5 +7,11 @@
 
 - 🔭 Actualmente estoy estudiando la Universidad
 - 🌱 Aprendiendo Java, Python, CSS, HTML, Sprint Boot, Linux..
-  
 
+
+
+![Chago554's GitHub stats](https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&layout=compact)
+
+}
