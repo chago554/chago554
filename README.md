@@ -7,8 +7,8 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/JAva-FF632A?style=for-the-badge&logo=java&logoColor=orange">    
-  <img src="https://img.shields.io/badge/python-FCB900?style=for-the-badge&logo=python&logoColor=black"> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">    
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
   <img src="https://img.shields.io/badge/Spring Boot-00A41B?style=for-the-badge&logo=springboot3&logoColor=white">
   <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-DF5616?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,19 +19,17 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-FF5100?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Boostrap-5400B3?style=for-the-badge&logo=boostrap&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span><br><br>
  
-
-
-![Chago554's GitHub stats](https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast)<br>
-
+![Chago554's GitHub stats](https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast)<br>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&layout=compact)
 
-
+</div>
 
 
 </span>
