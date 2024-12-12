@@ -14,7 +14,7 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
   <img src="https://img.shields.io/badge/HTML5-DF5616?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-004ABA?style=for-the-badge&logo=css3&logoColor=white">
  </span><br>
-
+  
 
 <h4> Other Tools and Technologies </h4>
 <span>
