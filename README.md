@@ -25,6 +25,8 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span><br><br>
+
+ <div align="center "> lolo</div>
  
 ![Chago554's GitHub stats](https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast)<br>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&layout=compact)
