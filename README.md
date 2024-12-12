@@ -5,7 +5,7 @@
 
 Currently pursuing a Bachelor's degree in Information Technology (IT) at the Universidad Tecnológica del Sur del Estado de México (UTSEM). My focus is on back-end development, and I am actively learning Java, Python, Spring Boot, and Linux to create scalable and efficient web applications.
 
-<h4> Languages </h4>
+<h2> Languages </h2>
 <span> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">    
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
@@ -16,7 +16,7 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
  </span><br>
   
 
-<h4> Other Tools and Technologies </h4>
+<h2> Other Tools and Technologies </h2>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
@@ -26,17 +26,13 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span><br><br>
 
- <div align="center "> lolo</div>
- 
-![Chago554's GitHub stats](https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast)<br>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&layout=compact)
-
-</div>
-
-
-</span>
+<div aling="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast" aling="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&layout=donut" height="195px" aling="end">
+</div>  
 
 ## Check out my Social Media
+
 
 <a href= "https://www.instagram.com/_santiago_laureano/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
