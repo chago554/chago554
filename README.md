@@ -38,10 +38,6 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
 </a><br><br><br><br>
 
 
-<div aling="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast" aling="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&layout=donut" height="195px" aling="end">
-</div>  
 
 
 
