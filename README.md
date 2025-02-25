@@ -8,7 +8,6 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
 <h2> Languages </h2>
 <span> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">    
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
   <img src="https://img.shields.io/badge/Spring Boot-00A41B?style=for-the-badge&logo=springboot3&logoColor=white">
   <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-DF5616?style=for-the-badge&logo=html5&logoColor=white">
