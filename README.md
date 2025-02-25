@@ -29,16 +29,15 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
   
 </span><br><br>
 
-## Check out my Social Media
-<a href= "https://www.instagram.com/_santiago_laureano/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
-
 <div aling="center">
     <img src="https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast" aling="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&layout=donut" height="195px" aling="end">
 </div>  
+
+## Check out my Social Media
+<a href= "https://www.instagram.com/_santiago_laureano/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 
 <a href="https://www.linkedin.com/in/santiago-laureano/" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
