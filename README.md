@@ -7,6 +7,9 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
 
 <h2> Languages </h2>
 <span> 
+
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">    
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">     
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">    
   <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/HTML5-DF5616?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,6 +28,7 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
   <img src="https://img.shields.io/badge/Ubuntu-FF5100?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src= "https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white">
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   
 </span><br><br>
