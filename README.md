@@ -33,10 +33,13 @@ Currently pursuing a Bachelor's degree in Information Technology (IT) at the Uni
   
 </span><br><br>
 
-<div aling="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=highcontrast" aling="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&layout=donut" height="195px" aling="end">
-</div>  
+## 📊 Estadísticas de GitHub
+
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=chago554&show_icons=true&theme=radical" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chago554&theme=radical&layout=compact" />
+</div>
+
 
 ## Check out my Social Media
 <a href= "https://www.instagram.com/_santiago_laureano/">
