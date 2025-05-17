@@ -1,4 +1,4 @@
-<h1>HI, I'M <a href= "https://www.instagram.com/_santiago_laureano/"> SANTIAGO </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"> </h1>
+<h1>HI, I'M <a href= "https://www.instagram.com/_santiago_laureano/" target="_blank"> SANTIAGO </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"> </h1>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/chago554">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/chago554">
